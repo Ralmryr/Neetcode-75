@@ -1,7 +1,8 @@
-#include <iostream>
+#include "main.h"
+
 
 int main()
 {
-    std::cout << "Hello, World!" << std::endl;
+    ContainsDuplicate::test(true);
     return 0;
 }
